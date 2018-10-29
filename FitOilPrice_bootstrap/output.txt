@@ -1,0 +1,3 @@
+Fitted value for mu is 76.468612 and confidence interval is (54.987883,96.102006)
+Fitted value for sigma is 6.715533 and confidence interval is (5.998892,7.447750)
+Fitted value for theta is 0.050000 and confidence interval is (0.030000,0.160000)

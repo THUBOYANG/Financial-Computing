@@ -1,0 +1,19 @@
+The estimated expected value of the price at time 25 = 100.118821
+The estimated expected value of the price at time 50 = 100.103160
+The estimated expected value of the price at time 75 = 99.864581
+The estimated expected value of the price at time 100 = 100.129634
+The estimated standard deviation of the price at time 25 = 7.046595
+The estimated standard deviation of the price at time 50 = 6.915664
+The estimated standard deviation of the price at time 75 = 6.888628
+The estimated standard deviation of the price at time 100 = 7.143110
+The estimated median price at time 25 = 99.966612
+The estimated median price at time 50 = 100.114640
+The estimated median price at time 75 = 99.761856
+The estimated median price at time 100 = 100.110140
+The estimated minimum value of the price between times 0 and 100 = 77.291570
+The estimated maximum value of the price between times 0 and 100 = 122.737578
+The estimated expected value of the time at which the maximum price occurs = 49.424151
+The estimated standard deviation of the time at which the maximum price occurs = 27.775430
+The estimated expected value of N = 9.306000
+The estimated standard deviation of N = 1.805997
+The 95 percent confidence interval is [9.194063,9.417937]
